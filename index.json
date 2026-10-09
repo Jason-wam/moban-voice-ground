@@ -1,0 +1,19 @@
+{
+  "name": "moban-voice-ground",
+  "version": "0.0.1",
+  "description": "A voice ground project",
+  "list": [
+    {
+      "name": "一目十影",
+      "avatar": "/avatars/一目十影.webp",
+      "path": "/voices/一目十影.wav",
+      "vip": false,
+      "gender": "male",
+      "ageStage": "young",
+      "tags": [
+        "中文",
+        "电影解说"
+      ]
+    }
+  ]
+}
