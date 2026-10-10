@@ -4,10 +4,11 @@
   "description": "A voice ground project",
   "list": [
     {
-      "name": "一目十影",
-      "avatar": "https://i0.hdslb.com/bfs/face/986bf531f3e50a6bf67d5844f9304fc310a153e3.jpg@128w_128h_1c_1s.webp",
-      "path": "/voices/一目十影.wav",
       "vip": false,
+      "name": "一目十影",
+      "path": "/voices/一目十影.wav",
+      "avatar": "https://i0.hdslb.com/bfs/face/986bf531f3e50a6bf67d5844f9304fc310a153e3.jpg@128w_128h_1c_1s.webp",
+      "transcript" : "这个男人昨天吞了刀片，现在他正止不住的吐血，这东西是他逃离法律制裁的工具，一旦违法犯罪被抓，他就一口吞下，警察怕出人命，也只能",
       "gender": "male",
       "ageStage": "young",
       "tags": [
