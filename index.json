@@ -15,6 +15,19 @@
         "中文",
         "电影解说"
       ]
+    },
+    {
+      "vip": false,
+      "name": "电影迷小雅",
+      "path": "/voices/电影迷小雅.wav",
+      "avatar": "https://i0.hdslb.com/bfs/face/d0bc2fa4dbad1cb3d51a48fe84fbecdd944d59e2.jpg@128w_128h_1c_1s.webp",
+      "transcript" : "一个人到中年的丧偶老男人想要再婚，居然用选秀节目方式欺诈上百个女性参与饰演，再从中挑选,年轻漂亮,才华横溢,做饭好吃,并且服从自己的女人当",
+      "gender": "female",
+      "ageStage": "young",
+      "tags": [
+        "中文",
+        "电影解说"
+      ]
     }
   ]
 }
