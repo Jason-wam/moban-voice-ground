@@ -28,6 +28,32 @@
         "中文",
         "电影解说"
       ]
+    },
+    {
+      "vip": false,
+      "name": "沫子",
+      "path": "/voices/沫子.wav",
+      "avatar": "https://i0.hdslb.com/bfs/face/a2131d38a2ea73f16ff25e61dbeb40377233f552.jpg@128w_128h_1c_1s.webp",
+      "transcript" : "各位观战老爷们大家好啊，我是沫子，地狱厨房平均每一季都能把戈登气跑一回，要是没有违约金拴着，这辈子都不带回来的了，各拿找这么些牛鬼蛇神呐",
+      "gender": "male",
+      "ageStage": "young",
+      "tags": [
+        "中文",
+        "电影解说"
+      ]
+    },
+    {
+      "vip": false,
+      "name": "包包",
+      "path": "/voices/沫子.wav",
+      "avatar": "/avatars/63984cc231813f85281081d1c0eb0246.jpg",
+      "transcript" : "各位观战老爷们大家好啊，我是沫子，地狱厨房平均每一季都能把戈登气跑一回，要是没有违约金拴着，这辈子都不带回来的了，各拿找这么些牛鬼蛇神呐",
+      "gender": "female",
+      "ageStage": "young",
+      "tags": [
+        "中文",
+        "电影解说"
+      ]
     }
   ]
 }
