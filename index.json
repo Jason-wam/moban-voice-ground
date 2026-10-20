@@ -5,9 +5,9 @@
   "list": [
     {
       "vip": false,
-      "name": "一目十影",
-      "path": "/voices/一目十影.wav",
-      "avatar": "https://i0.hdslb.com/bfs/face/986bf531f3e50a6bf67d5844f9304fc310a153e3.jpg@128w_128h_1c_1s.webp",
+      "name": "男青年",
+      "path": "/voices/男青年.wav",
+      "avatar": "https://p0.ssl.qhimgs1.com/sdr/400__/t04ecc41e6507518574.jpg",
       "transcript" : "这个男人昨天吞了刀片，现在他正止不住的吐血，这东西是他逃离法律制裁的工具，一旦违法犯罪被抓，他就一口吞下，警察怕出人命，也只能",
       "gender": "male",
       "ageStage": "young",
@@ -18,9 +18,9 @@
     },
     {
       "vip": false,
-      "name": "电影迷小雅",
-      "path": "/voices/电影迷小雅.wav",
-      "avatar": "https://i0.hdslb.com/bfs/face/d0bc2fa4dbad1cb3d51a48fe84fbecdd944d59e2.jpg@128w_128h_1c_1s.webp",
+      "name": "女青年",
+      "path": "/voices/女青年.wav",
+      "avatar": "https://p2.ssl.qhimgs1.com/sdr/400__/t048517f0d7f999a702.jpg",
       "transcript" : "一个人到中年的丧偶老男人想要再婚，居然用选秀节目方式欺诈上百个女性参与饰演，再从中挑选,年轻漂亮,才华横溢,做饭好吃,并且服从自己的女人当",
       "gender": "female",
       "ageStage": "young",
