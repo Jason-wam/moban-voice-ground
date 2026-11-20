@@ -41,6 +41,19 @@
         "中文",
         "电影解说"
       ]
+    },
+    {
+      "vip": false,
+      "name": "男中年",
+      "path": "/voices/男中年.wav",
+      "avatar": "https://i0.hdslb.com/bfs/face/a64a98fa0f75fd3503bfe740403d3bb0d2676fec.jpg@128w_128h_1c_1s.webp",
+      "transcript" : "今天说的是一个故事,君臣斗,也叫官场斗,其实呢,就是刘罗锅的故事，这可能是传统相声里边",
+      "gender": "male",
+      "ageStage": "mature",
+      "tags": [
+        "说书",
+        "有声书"
+      ]
     }
   ]
 }
