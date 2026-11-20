@@ -54,6 +54,19 @@
         "说书",
         "有声书"
       ]
+    },
+    {
+      "vip": false,
+      "name": "曼波",
+      "path": "/voices/曼波.wav",
+      "avatar": "https://i0.hdslb.com/bfs/face/ce6eee012e76f8ffab573737475bb0b0bd91eb70.jpg",
+      "transcript" : "很多人以为,真正改变世界的是那些惊天动地的大事。其实,更多时候,改变往往来自一个微小的决定。一次强势,一次坚持,或者一次看似普通的选择,都可能成为未来最重要的转折点。",
+      "gender": "female",
+      "ageStage": "child",
+      "tags": [
+        "哈基米",
+        "曼波"
+      ]
     }
   ]
 }
